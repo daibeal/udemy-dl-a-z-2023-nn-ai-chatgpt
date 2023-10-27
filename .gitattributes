@@ -1,0 +1,10 @@
+*.pack filter=lfs diff=lfs merge=lfs -text
+07-Autoencoders/ml-1m/ratings.dat filter=lfs diff=lfs merge=lfs -text
+06-Boltzmann-Machines/ml-1m/ratings.dat filter=lfs diff=lfs merge=lfs -text
+06-Boltzmann-Machines/ml-1m/ratings.csv filter=lfs diff=lfs merge=lfs -text
+07-Autoencoders/ml-1m/training_set.csv filter=lfs diff=lfs merge=lfs -text
+06-Boltzmann-Machines/ml-1m/training_set.csv filter=lfs diff=lfs merge=lfs -text
+07-Autoencoders/ml-1m.zip filter=lfs diff=lfs merge=lfs -text
+07-Autoencoders/ml-1m/test_set.csv filter=lfs diff=lfs merge=lfs -text
+06-Boltzmann-Machines/ml-1m/test_set.csv filter=lfs diff=lfs merge=lfs -text
+07-Autoencoders/ml-100k.zip filter=lfs diff=lfs merge=lfs -text
