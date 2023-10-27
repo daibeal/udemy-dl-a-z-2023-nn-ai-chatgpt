@@ -1,0 +1,46 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+db.sqlite3
+*.sqlite3
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Virtual Environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# OS Files
+.DS_Store
+*.swp
+*~
+._*
+*.bak
+*.tmp
+
+# Editor and IDE files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Log and cache files
+*.log
+.cache/
+*.bak
+
+# Other files
+*.csv
+*.json
+*.hdf5
+*.h5
+*.pkl
+*.pickle
