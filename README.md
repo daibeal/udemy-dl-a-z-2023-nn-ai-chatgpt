@@ -122,7 +122,7 @@ Distributed under the GNU License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Andrés B. Aldaz - [@twitter_handle](https://x.com/andresaldazz)
+Andrés B. Aldaz - [@andresaldazz](https://x.com/andresaldazz)
 
 Project Link: [https://github.com/daibeal/udemy-dl-a-z-2023-nn-ai-chatgpt](https://github.com/daibeal/udemy-dl-a-z-2023-nn-ai-chatgpt)
 
