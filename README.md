@@ -70,6 +70,25 @@
 
 This repository contains materials and resources for the "Deep Learning A-Z™ 2023" course.
 
+# Course Content for Deep Learning A-Z™: Hands-On Artificial Neural Networks
+
+Welcome to the course! Below is the table of contents with direct links to access each section and additional resources.
+
+| No. | Section                                   | Resources              |
+|-----|-------------------------------------------|------------------------|
+| 1   | [Welcome and Introduction](01-Welcome-and-Introduction)                | [License](LICENSE)     |
+| 2   | [Artificial Neural Networks](02-Artificial-Neural-Networks)            | [Readme](README.md)    |
+| 3   | [Convolutional Neural Networks](03-Convolutional-Neural-Networks)      | [Assets](assets)       |
+| 4   | [Recurrent Neural Networks](04-Recurrent-Neural-Networks)              | [Assignments](assignments)|
+| 5   | [Self-Organizing Maps](05-Self-Organizing-Maps)                        | [Projects](projects)   |
+| 6   | [Boltzmann Machines](06-Boltzmann-Machines)                            | [Resources](resources) |
+| 7   | [Autoencoders](07-Autoencoders)                                        |                        |
+| 8   | [Regression and Classification Intuition](08-Regression-and-Classification-Intuition)|                        |
+| 9   | [Data Preprocessing](09-Data-Preprocessing)                            |                        |
+
+Feel free to navigate through the sections and resources using the links provided.
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
